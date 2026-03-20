@@ -39,7 +39,7 @@ A **pixel-perfect** Instagram Home Feed clone built with Flutter — replicating
 ## 🎥 Demo
 
 <p align="center">
-  <img src="assets/gif/instagram_clone.gif" width="300"/>
+  <img src="assets/gif/Adobe Express - Instagram_clone (1) (1).gif.gif" width="300"/>
 </p>
 
 ---
